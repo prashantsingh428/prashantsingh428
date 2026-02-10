@@ -1,5 +1,5 @@
-# 💫 About Me:
-➡️🏗️ From bugs to builds — that’s my daily routine<br><br>➡️💻 Curiosity drives my code<br><br>📚🚀 I code, learn, improve, and repeat<br><br>📦🚀 Learning fast, shipping faster<br><br>🎯📈 I stay focused on learning and improving<br><br>🧠🛠️ I’m a full stack developer with a problem-solving mindset
+#About Me:
+From bugs to builds — that’s my daily routine<br><br>Curiosity drives my code<br><br>I code, learn, improve, and repeat<br><br>Learning fast, shipping faster<br><br>I stay focused on learning and improving<br><br>I’m a full stack developer with a problem-solving mindset
 
 
 ## 🌐 Socials:
