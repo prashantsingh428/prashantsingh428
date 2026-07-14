@@ -6,11 +6,11 @@
 
 ### 🚀 Full Stack Developer | Backend Developer 
 
-I'm a Software Developer passionate about building scalable web applications and solving real-world problems. I enjoy designing efficient backend systems, creating modern user interfaces, and continuously expanding my knowledge in System Design, Cloud, and Machine Learning.
+I'm a Software Developer passionate about building scalable web applications and solving real-world problems. I enjoy designing efficient backend systems, creating modern user interfaces, and continuously expanding my knowledge in System Design, and Cloud.
 
 - Full Stack Developer with strong backend focus
-- Currently learning **System Design, AWS, Docker & Machine Learning**
-- Solved **170+ LeetCode** problems
+- Currently learning **System Design, AWS, Docker & CC**
+- Solved **250+ LeetCode** problems
 - Passionate about building scalable software
 - Open to Software Engineering Internship & Full-Time Opportunities
 
