@@ -1,7 +1,6 @@
-```markdown
 # Hi 👋, I'm Prashant Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Java+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Java+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=prashantsingh428&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
