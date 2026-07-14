@@ -132,7 +132,7 @@ I'm a Software Developer passionate about building scalable web applications and
 ---
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-six.vercel.app/?username=prashantsingh428&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prashantsingh428&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
